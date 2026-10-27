@@ -1,6 +1,8 @@
 module github.com/upbound/provider-upbound
 
-go 1.19
+go 1.21
+
+toolchain go1.26.10
 
 require (
 	github.com/crossplane/crossplane-runtime v1.14.0-rc.0.0.20230912122805-43c9ceeb2071

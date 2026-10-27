@@ -4,6 +4,8 @@ go 1.21
 
 toolchain go1.26.10
 
+godebug default=go1.19
+
 require (
 	github.com/crossplane/crossplane-runtime v1.14.0-rc.0.0.20230912122805-43c9ceeb2071
 	github.com/crossplane/crossplane-tools v0.0.0-20230925130601-628280f8bf79
